@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, im Daniel López 👋
+- I’m currently working on Edilar
 <!--
 **dlogth/dlogth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
